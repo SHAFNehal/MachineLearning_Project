@@ -2,9 +2,9 @@ This is part of our course at UTSA Fall 2016 course (Machine Learning/BigData EE
 
 ***
 
-Outcome: Use of a convolutional neural network framework to train and categorize model cars.
+**Outcome:** Use of a convolutional neural network framework to train and categorize model cars.
 
-Dataset: http://ai.stanford.edu/~jkrause/cars/car_dataset.html [1]
+**Dataset:** http://ai.stanford.edu/~jkrause/cars/car_dataset.html [1]
 
 
 
