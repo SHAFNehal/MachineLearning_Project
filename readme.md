@@ -12,11 +12,9 @@ This is part of our course at UTSA Fall 2016 course (Machine Learning/BigData EE
  
 **Team Members**
 
-Rajitha Meka (rajithameka14@gmail.com)
+Rajitha Meka
 
-Rupa Nath (nathrupa@gmail.com)
-
-Syed Hasib Akhter Faruqui (shafnehal@gmail.com )
+Syed Hasib Akhter Faruqui
 
 
 ***
